@@ -1,0 +1,6 @@
+{
+  "name": "Co-Creation Canvas",
+  "description": "Co-Creation Canvas is a collaborative whiteboard application where users can draw, write, and create flowcharts. Gemini can analyze the whiteboard content to provide a summary of activities and ideas, and assist with drawing. moving to modular components.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
